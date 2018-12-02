@@ -1,0 +1,1091 @@
+﻿Log file open, 11/30/18 13:48:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SinglePlayerFPS
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.275751
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.569s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  1.893s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.30-04.48.49:572][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-04.48.49:572][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.30-04.48.49:846][  0]LogHAL: Display: Platform has ~ 8 GB [8536846336 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.30-04.48.49:846][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.30-04.48.49:846][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.30-04.48.49:905][  0]LogInit: Computer: KAI-PC
+[2018.11.30-04.48.49:905][  0]LogInit: User: kai
+[2018.11.30-04.48.49:905][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.30-04.48.49:906][  0]LogInit: High frequency timer resolution =2.929696 MHz
+[2018.11.30-04.48.49:906][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.11.30-04.48.49:906][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.30-04.48.49:906][  0]LogMemory: Process Physical Memory: 101.10 MB used, 101.10 MB peak
+[2018.11.30-04.48.49:906][  0]LogMemory: Process Virtual Memory: 86.83 MB used, 86.83 MB peak
+[2018.11.30-04.48.49:906][  0]LogMemory: Physical Memory: 4979.74 MB used,  3161.63 MB free, 8141.37 MB total
+[2018.11.30-04.48.49:906][  0]LogMemory: Virtual Memory: 4626.59 MB used,  3161.63 MB free, 134217728.00 MB total
+[2018.11.30-04.48.50:793][  0]LogInit: Overriding language with editor language configuration option (en-US).
+[2018.11.30-04.48.50:793][  0]LogInit: Overriding locale with editor locale configuration option (en-US).
+[2018.11.30-04.48.50:795][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.30-04.48.54:660][  0]LogStreaming: Display: Took  3.867s to InitEngineTextLocalization.
+[2018.11.30-04.48.54:661][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.30-04.48.55:258][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.30-04.48.55:258][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.30-04.49.09:077][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.30-04.49.09:993][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2018.11.30-04.49.09:993][  0]LogD3D11RHI:       2007/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.30-04.49.09:995][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.30-04.49.09:995][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.30-04.49.09:995][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.30-04.49.10:001][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.30-04.49.10:001][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.30-04.49.10:001][  0]LogWindows: EnumDisplayDevices:
+[2018.11.30-04.49.10:001][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2018.11.30-04.49.10:001][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2018.11.30-04.49.10:001][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.11.30-04.49.10:002][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.11.30-04.49.10:002][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.30-04.49.10:002][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2018.11.30-04.49.10:002][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.30-04.49.10:002][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.30-04.49.10:002][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2018.11.30-04.49.10:036][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.30-04.49.10:247][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.30-04.49.10:296][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Intermediate/Shaders/WorkingDirectory/11948/).
+[2018.11.30-04.49.10:297][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kai/AppData/Local/Temp/UnrealShaderWorkingDir/4A1031664D436563116FE8817E026B28/'.
+[2018.11.30-04.49.38:241][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.30-04.49.38:305][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.30-04.49.38:380][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.30-04.49.38:407][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.30-04.49.38:484][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.30-04.49.38:553][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.30-04.49.38:646][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.30-04.49.38:845][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.30-04.49.38:947][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-04.49.39:687][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.30-04.49.40:017][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-04.49.40:017][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-04.49.40:129][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-04.49.40:129][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-04.49.40:262][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.30-04.49.40:362][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.30-04.49.40:399][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.30-04.49.40:474][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.30-04.49.40:577][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.30-04.49.40:577][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.30-04.49.42:500][  0]LogXGEController: Cleaning working directory: C:/Users/kai/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.30-04.49.42:501][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.30-04.49.42:501][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.30-04.49.42:501][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.30-04.49.50:667][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.30-04.50.03:717][  0]LogDerivedDataCache: Loaded boot cache 13.05s 71MB C:/Users/kai/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.30-04.50.03:717][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kai/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.30-04.50.03:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.30-04.50.03:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.30-04.50.03:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.30-04.50.03:717][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.30-04.50.03:776][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.30-04.50.03:788][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.30-04.50.03:788][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.30-04.50.03:788][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.30-04.50.03:806][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.30-04.50.03:808][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.30-04.50.03:848][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.30-04.50.09:118][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.11.30-04.50.09:606][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-04.50.10:739][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.30-04.50.10:916][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.30-04.50.10:916][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.30-04.50.10:916][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.30-04.50.10:916][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.30-04.50.11:045][  0]LogNetVersion: SinglePlayerFPS 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2568942666)
+[2018.11.30-04.50.12:922][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.134996 seconds
+[2018.11.30-04.50.12:931][  0]LogUObjectArray: 38200 objects as part of root set at end of initial load.
+[2018.11.30-04.50.12:931][  0]LogUObjectAllocator: 6653376 out of 0 bytes used by permanent object pool.
+[2018.11.30-04.50.12:931][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.30-04.51.30:587][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.30-04.51.30:699][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.30-04.51.32:993][  0]SourceControl: Source control is disabled
+[2018.11.30-04.51.32:993][  0]SourceControl: Source control is disabled
+[2018.11.30-04.51.33:091][  0]SourceControl: Source control is disabled
+[2018.11.30-04.51.33:125][  0]SourceControl: Source control is disabled
+[2018.11.30-04.51.35:785][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.30-04.51.36:506][  0]LogOcInput: OculusInput pre-init called
+[2018.11.30-04.51.36:900][  0]LogEngine: Initializing Engine...
+[2018.11.30-04.51.36:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.30-04.51.36:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.30-04.51.36:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.30-04.51.36:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.30-04.51.37:109][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.30-04.51.37:382][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.30-04.51.37:455][  0]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.51.37:488][  0]LogInit: FAudioDevice initialized.
+[2018.11.30-04.51.37:488][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.30-04.51.38:540][  0]LogDerivedDataCache: Saved boot cache 1.05s 71MB C:/Users/kai/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.30-04.51.38:540][  0]LogInit: Texture streaming: Enabled
+[2018.11.30-04.51.39:058][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.30-04.51.39:092][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={852D04A1-418C-4221-5070-CCB2B4E34C77}
+[2018.11.30-04.51.39:597][  0]LogInit: Transaction tracking system initialized
+[2018.11.30-04.51.39:945][  0]BlueprintLog: New page: Editor Load
+[2018.11.30-04.51.41:624][  0]LocalizationService: Localization service is disabled
+[2018.11.30-04.51.43:481][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.30-04.51.43:481][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.30-04.51.43:481][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.30-04.51.43:481][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.30-04.51.43:481][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.30-04.51.43:481][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.30-04.51.43:481][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.30-04.51.44:035][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/' took 0.02s
+[2018.11.30-04.51.45:878][  0]SourceControl: Source control is disabled
+[2018.11.30-04.51.45:878][  0]Cmd: MAP LOAD FILE="../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/Levels/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.30-04.51.45:879][  0]LightingResults: New page: Lighting Build
+[2018.11.30-04.51.45:924][  0]MapCheck: New page: Map Check
+[2018.11.30-04.51.45:924][  0]LightingResults: New page: Lighting Build
+[2018.11.30-04.52.00:177][  0]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.52.00:228][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.30-04.52.00:261][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.30-04.52.00:351][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.964ms to complete.
+[2018.11.30-04.52.00:351][  0]LogFileHelpers: Loading map 'TestMap' took 14.472
+[2018.11.30-04.52.00:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.52.00:865][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.52.00:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.52.00:892][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.52.01:010][  0]LogCollectionManager: Loaded 0 collections in 0.001925 seconds
+[2018.11.30-04.52.01:087][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/Collections/' took 0.01s
+[2018.11.30-04.52.01:087][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/Developers/kai/Collections/' took 0.01s
+[2018.11.30-04.52.01:087][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/Collections/' took 0.01s
+[2018.11.30-04.52.01:087][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.30-04.52.01:097][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2586 classes and 607 folders.
+[2018.11.30-04.52.01:152][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.30-04.52.04:007][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.30-04.52.04:099][  0]LogSlate: Took 0.086170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.30-04.52.04:215][  0]LogSlate: Took 0.112213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.30-04.52.04:286][  0]LogSlate: Took 0.068800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.30-04.52.04:370][  0]LogRenderer: Reallocating scene render targets to support 1352x964 Format 10 NumSamples 1 (Frame:1).
+[2018.11.30-04.52.04:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.30-04.52.04:545][  0]LogLoad: (Engine Initialization) Total time: 215.03 seconds
+[2018.11.30-04.52.04:545][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.30-04.52.04:556][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.30-04.52.04:579][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.11.30-04.52.04:719][  1]LogAssetRegistry: Asset discovery search completed in 115.6237 seconds
+[2018.11.30-04.52.04:722][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.30-04.52.04:722][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2018.11.30-04.52.04:779][  2]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_FPSPlayer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_FPSPlayer_C_0
+	Function /Game/BP/ABP_FPSPlayer.ABP_FPSPlayer_C:ExecuteUbergraph_ABP_FPSPlayer:0A41
+[2018.11.30-04.52.04:779][  2]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_FPSPlayer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_FPSPlayer_C_0
+	Function /Game/BP/ABP_FPSPlayer.ABP_FPSPlayer_C:ExecuteUbergraph_ABP_FPSPlayer:0A89
+[2018.11.30-04.52.04:779][  2]LogScript: Warning: Accessed None trying to read property PlayerRefe
+	ABP_FPSPlayer_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_FPSPlayer_C_0
+	Function /Game/BP/ABP_FPSPlayer.ABP_FPSPlayer_C:ExecuteUbergraph_ABP_FPSPlayer:0AE0
+[2018.11.30-04.52.05:711][ 40]LogSlate: Took 0.105210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.30-04.53.52:771][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-04.53.55:156][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-04.54.03:362][975]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.54.03:390][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.54.03:390][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.54.03:403][975]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:54:03 PM)
+[2018.11.30-04.54.03:403][975]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.54.03:421][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017614s)
+[2018.11.30-04.54.03:422][975]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.54.03:422][975]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2018.11.30-04.54.03:422][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.018623s)
+[2018.11.30-04.54.03:458][975]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.54.03:489][975]LogInit: FAudioDevice initialized.
+[2018.11.30-04.54.03:501][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.54.03:560][975]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.54.03:576][975]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.54.03
+[2018.11.30-04.54.03:577][975]LogWorld: Bringing up level for play took: 0.015796
+[2018.11.30-04.54.03:656][975]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.30-04.54.03:669][975]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.112
+[2018.11.30-04.54.03:669][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.54.05:084][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.54.05:084][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.54.05:114][136]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.54.06:062][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.54.06:063][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.54.06:110][137]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.30-04.54.06:298][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap" FILE="../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/Levels/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.30-04.54.06:653][156]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/TestMap8F27E178477634C54CA5F9970AF96713.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/Levels/TestMap.umap'
+[2018.11.30-04.54.06:707][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap_BuiltData" FILE="../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/Levels/TestMap_BuiltData.uasset" SILENT=true
+[2018.11.30-04.54.06:888][156]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/TestMap_BuiltData027641224D022C80AACEF680DFB53681.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/Levels/TestMap_BuiltData.uasset'
+[2018.11.30-04.54.12:610][783]LogEditorViewport: Clicking on Actor (LMB): BP_Assault_C (BP_Assault)
+[2018.11.30-04.54.15:365][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-04.54.16:616][ 96]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.54.16:617][ 96]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.54.16:617][ 96]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.54.16:617][ 96]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.54.16:617][ 96]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.54.17:387][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/ShooterAI/Character/BP_ShooterAIBase.BP_ShooterAIBase
+[2018.11.30-04.54.17:926][129]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.30-04.54.18:970][129]LogSlate: Took 0.052775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.30-04.54.19:141][130]LogSlate: Took 0.081190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.30-04.54.23:978][684]BlueprintLog: New page: Compile BP_ShooterAIBase
+[2018.11.30-04.54.24:370][684]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_ShooterAIBaseD87863FC4A852C76BF5C13B8DFC8A6A5.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Character/BP_ShooterAIBase.uasset'
+[2018.11.30-04.54.30:317][ 95]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/BP_FPSPlayer.BP_FPSPlayer
+[2018.11.30-04.54.37:944][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_FPSPlayer" FILE="../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/BP_FPSPlayer.uasset" SILENT=true
+[2018.11.30-04.54.38:269][776]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_FPSPlayer90A8FD8E41D63C2FBD82D68DA4BA4907.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/BP_FPSPlayer.uasset'
+[2018.11.30-04.54.44:368][479]BlueprintLog: New page: Compile BP_ShooterAIBase
+[2018.11.30-04.54.56:029][779]BlueprintLog: New page: Compile BP_ShooterAIBase
+[2018.11.30-04.54.56:604][788]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_ShooterAIBaseE3D2028C4514479CCB3E40ADA47E0EAF.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Character/BP_ShooterAIBase.uasset'
+[2018.11.30-04.55.04:882][666]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/ShooterAI/Controller/BP_ShooterAiConBase.BP_ShooterAiConBase
+[2018.11.30-04.56.17:506][967]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-04.56.17:523][967]LogBlueprint: Error: [Compiler BP_ShooterAiConBase] The current value (0, 0, 0) of the ' Start ' pin is invalid: 'Start' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.11.30-04.56.17:523][967]LogBlueprint: Error: [Compiler BP_ShooterAiConBase] The current value (0, 0, 0) of the ' Target ' pin is invalid: 'Target' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.11.30-04.56.17:701][967]LogBlueprint: Warning: [Compiler BP_ShooterAiConBase] [0468.19] Compile of BP_ShooterAiConBase failed. 2 Fatal Issue(s) 0 Warning(s) [in 194 ms] (/Game/BP/ShooterAI/Controller/BP_ShooterAiConBase.BP_ShooterAiConBase)
+[2018.11.30-04.56.44:032][  5]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-04.56.44:844][ 75]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.56.44:877][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.56.44:877][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.56.44:878][ 75]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:56:44 PM)
+[2018.11.30-04.56.44:878][ 75]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.56.44:893][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015032s)
+[2018.11.30-04.56.44:894][ 75]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.56.44:894][ 75]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.11.30-04.56.44:894][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.016091s)
+[2018.11.30-04.56.44:943][ 75]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.56.44:975][ 75]LogInit: FAudioDevice initialized.
+[2018.11.30-04.56.44:985][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.56.45:027][ 75]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.56.45:043][ 75]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.56.45
+[2018.11.30-04.56.45:044][ 75]LogWorld: Bringing up level for play took: 0.015851
+[2018.11.30-04.56.45:071][ 75]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.486
+[2018.11.30-04.56.45:071][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.56.47:001][287]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.56.54:408][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.56.54:408][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.56.54:439][101]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.56.54:472][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.56.54:473][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.56.54:531][102]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.30-04.56.56:392][325]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-04.57.01:358][884]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_ShooterAiConBase256EB3D044C43E202E5DBFA14B584574.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Controller/BP_ShooterAiConBase.uasset'
+[2018.11.30-04.57.14:034][214]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI
+[2018.11.30-04.57.14:096][214]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.30-04.57.14:300][214]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.30-04.57.14:301][214]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.57.14:301][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.14:301][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.14:301][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.14:301][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.14:306][214]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.11.30-04.57.14:606][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.30-04.57.14:750][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.14:750][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.14:750][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.14:750][214]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.14:817][214]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.11.30-04.57.14:886][215]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.14:886][215]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.14:886][215]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_0
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.20:326][816]BlueprintLog: New page: Compile ABP_ShooterAI
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.20:357][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.20:538][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.20:538][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.20:538][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.20:538][816]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.20:581][817]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.20:581][817]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.20:581][817]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_1
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.24:918][306]BlueprintLog: New page: Compile ABP_ShooterAI
+[2018.11.30-04.57.24:950][306]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.57.24:950][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.24:950][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.24:950][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.24:950][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.24:951][306]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.57.24:951][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.24:951][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.24:951][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.24:951][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.25:132][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.25:132][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.25:132][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.25:133][306]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.25:173][307]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.25:173][307]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.25:173][307]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_2
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.25:459][339]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.57.25:493][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.25:493][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.57.25:493][339]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:57:25 PM)
+[2018.11.30-04.57.25:493][339]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.57.25:508][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015164s)
+[2018.11.30-04.57.25:510][339]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.57.25:510][339]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2018.11.30-04.57.25:510][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.016672s)
+[2018.11.30-04.57.25:557][339]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.57.25:586][339]LogInit: FAudioDevice initialized.
+[2018.11.30-04.57.25:596][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.57.25:634][339]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.57.25:648][339]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.57.25
+[2018.11.30-04.57.25:650][339]LogWorld: Bringing up level for play took: 0.015120
+[2018.11.30-04.57.25:676][339]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.12
+[2018.11.30-04.57.25:676][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.26:955][438]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.57.28:013][525]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.57.28:879][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.28:879][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.57.28:909][596]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.57.28:946][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.57.28:947][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.29:006][597]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.11.30-04.57.32:078][927]BlueprintLog: New page: Compile ABP_ShooterAI
+[2018.11.30-04.57.32:110][927]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.57.32:110][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.32:110][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.32:110][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.32:110][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.32:111][927]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A8
+[2018.11.30-04.57.32:111][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.32:111][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.32:111][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.32:111][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.32:293][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.32:293][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.32:293][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.32:293][927]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:022C
+[2018.11.30-04.57.32:335][928]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00AE
+[2018.11.30-04.57.32:335][928]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:00E0
+[2018.11.30-04.57.32:335][928]LogScript: Warning: Accessed None trying to read property Pawn
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_3
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:01FA
+[2018.11.30-04.57.41:067][841]LogEditorTransaction: Undo Add In Parameter
+[2018.11.30-04.57.41:131][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.30-04.57.43:487][ 92]BlueprintLog: New page: Compile ABP_ShooterAI
+[2018.11.30-04.57.43:519][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_4
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A1
+[2018.11.30-04.57.43:520][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_4
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A1
+[2018.11.30-04.57.44:191][143]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.57.44:225][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.44:225][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.57.44:225][143]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:57:44 PM)
+[2018.11.30-04.57.44:225][143]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.57.44:241][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015372s)
+[2018.11.30-04.57.44:242][143]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.57.44:242][143]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.11.30-04.57.44:242][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.016470s)
+[2018.11.30-04.57.44:289][143]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.57.44:319][143]LogInit: FAudioDevice initialized.
+[2018.11.30-04.57.44:329][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.57.44:374][143]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.57.44:390][143]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.57.44
+[2018.11.30-04.57.44:391][143]LogWorld: Bringing up level for play took: 0.015783
+[2018.11.30-04.57.44:417][143]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.86
+[2018.11.30-04.57.44:418][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.45:726][246]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.57.48:054][429]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.57.48:960][499]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.57.49:596][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.49:597][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.57.49:627][548]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.57.49:661][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.57.49:662][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.49:723][549]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.30-04.57.51:206][711]BlueprintLog: New page: Compile ABP_ShooterAI
+[2018.11.30-04.57.51:236][711]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_5
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A1
+[2018.11.30-04.57.51:237][711]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_5
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A1
+[2018.11.30-04.57.58:603][526]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.57.58:637][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.58:638][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.57.58:638][526]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:57:58 PM)
+[2018.11.30-04.57.58:638][526]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.57.58:653][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014628s)
+[2018.11.30-04.57.58:653][526]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.57.58:654][526]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.11.30-04.57.58:654][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015550s)
+[2018.11.30-04.57.58:701][526]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.57.58:730][526]LogInit: FAudioDevice initialized.
+[2018.11.30-04.57.58:739][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.57.58:780][526]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.57.58:795][526]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.57.58
+[2018.11.30-04.57.58:797][526]LogWorld: Bringing up level for play took: 0.015284
+[2018.11.30-04.57.58:824][526]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.733
+[2018.11.30-04.57.58:824][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.57.58:949][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-04.58.05:768][910]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.58.07:848][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.58.07:849][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.58.07:878][ 72]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.58.07:916][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.58.07:916][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.58.07:988][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.30-04.58.23:042][791]BlueprintLog: New page: Compile ABP_ShooterAI
+[2018.11.30-04.58.23:074][791]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ShooterAI_C_6
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A1
+[2018.11.30-04.58.23:074][791]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ShooterAI_C /Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ShooterAI_C_6
+	Function /Game/BP/ShooterAI/Character/ABP_ShooterAI.ABP_ShooterAI_C:ExecuteUbergraph_ABP_ShooterAI:03A1
+[2018.11.30-04.58.26:091][110]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/ABP_ShooterAI5A8A002F4AB77BC154DCBFBA7E253E06.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Character/ABP_ShooterAI.uasset'
+[2018.11.30-04.58.48:686][690]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-04.58.49:371][746]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.58.49:407][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.58.49:407][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.58.49:408][746]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:58:49 PM)
+[2018.11.30-04.58.49:408][746]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.58.49:424][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015784s)
+[2018.11.30-04.58.49:425][746]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.58.49:425][746]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.11.30-04.58.49:425][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.016804s)
+[2018.11.30-04.58.49:472][746]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.58.49:502][746]LogInit: FAudioDevice initialized.
+[2018.11.30-04.58.49:512][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.58.49:552][746]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.58.49:566][746]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.58.49
+[2018.11.30-04.58.49:567][746]LogWorld: Bringing up level for play took: 0.014232
+[2018.11.30-04.58.49:592][746]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.036
+[2018.11.30-04.58.49:593][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.58.50:968][899]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.58.54:047][264]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.58.54:223][284]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.59.08:981][957]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.59.14:282][571]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.59.15:383][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.15:383][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.59.15:413][694]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.59.15:450][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.59.15:451][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.15:508][695]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.30-04.59.21:681][425]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-04.59.22:228][464]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.59.22:266][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.22:266][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.59.22:266][464]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:59:22 PM)
+[2018.11.30-04.59.22:267][464]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.59.22:284][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016748s)
+[2018.11.30-04.59.22:284][464]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.59.22:285][464]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.11.30-04.59.22:285][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.017869s)
+[2018.11.30-04.59.22:330][464]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.59.22:360][464]LogInit: FAudioDevice initialized.
+[2018.11.30-04.59.22:370][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.59.22:413][464]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.59.22:428][464]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.59.22
+[2018.11.30-04.59.22:429][464]LogWorld: Bringing up level for play took: 0.015471
+[2018.11.30-04.59.22:456][464]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.899
+[2018.11.30-04.59.22:457][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.23:766][609]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.59.24:764][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.24:764][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.59.24:794][728]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.59.24:829][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.59.24:830][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.24:888][729]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.30-04.59.27:281][ 14]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-04.59.28:133][ 80]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_ShooterAiConBase806EC4B04A3FA0B9E48950925C0A5ABA.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Controller/BP_ShooterAiConBase.uasset'
+[2018.11.30-04.59.38:535][ 99]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/ShooterAI/Controller/BP_AssaultCon.BP_AssaultCon
+[2018.11.30-04.59.47:525][ 73]BlueprintLog: New page: Compile BP_AssaultCon
+[2018.11.30-04.59.48:525][162]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_AssaultCon6F5AAB90460924FD18EA5C9A27962EEE.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Controller/BP_AssaultCon.uasset'
+[2018.11.30-04.59.49:729][286]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-04.59.49:769][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.49:769][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-04.59.49:769][286]PIE: New page: PIE session: TestMap (Nov 30, 2018, 10:59:49 PM)
+[2018.11.30-04.59.49:770][286]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-04.59.49:784][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014571s)
+[2018.11.30-04.59.49:785][286]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-04.59.49:785][286]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.11.30-04.59.49:785][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015530s)
+[2018.11.30-04.59.49:831][286]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-04.59.49:860][286]LogInit: FAudioDevice initialized.
+[2018.11.30-04.59.49:871][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.59.49:917][286]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-04.59.49:933][286]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-13.59.49
+[2018.11.30-04.59.49:934][286]LogWorld: Bringing up level for play took: 0.016469
+[2018.11.30-04.59.49:961][286]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.404
+[2018.11.30-04.59.49:961][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.51:185][418]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-04.59.51:985][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.51:985][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-04.59.52:016][513]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-04.59.52:052][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-04.59.52:053][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-04.59.52:136][514]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.30-05.00.09:408][478]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-05.00.10:253][553]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-05.00.10:294][553]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.10:294][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-05.00.10:294][553]PIE: New page: PIE session: TestMap (Nov 30, 2018, 11:00:10 PM)
+[2018.11.30-05.00.10:295][553]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-05.00.10:309][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014363s)
+[2018.11.30-05.00.10:310][553]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-05.00.10:310][553]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.11.30-05.00.10:310][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015590s)
+[2018.11.30-05.00.10:360][553]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-05.00.10:389][553]LogInit: FAudioDevice initialized.
+[2018.11.30-05.00.10:399][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-05.00.10:445][553]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-05.00.10:459][553]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-14.00.10
+[2018.11.30-05.00.10:461][553]LogWorld: Bringing up level for play took: 0.015002
+[2018.11.30-05.00.10:487][553]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.93
+[2018.11.30-05.00.10:487][553]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.10:488][553]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:562][554]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:571][555]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:581][556]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:589][557]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:597][558]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:606][559]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:615][560]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:623][561]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:632][562]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:641][563]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:649][564]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:659][565]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:668][566]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:678][567]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:688][568]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:698][569]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:708][570]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:718][571]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:728][572]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:737][573]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:747][574]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:757][575]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:766][576]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:776][577]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:786][578]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:796][579]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:805][580]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:814][581]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:823][582]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:831][583]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:840][584]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:849][585]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:857][586]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:866][587]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:876][588]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:885][589]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:893][590]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:901][591]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:910][592]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:919][593]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:928][594]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:937][595]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:946][596]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:955][597]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:964][598]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:972][599]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:981][600]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:989][601]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.10:999][602]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:007][603]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:016][604]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:024][605]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:032][606]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:041][607]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:050][608]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:059][609]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:067][610]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:075][611]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:084][612]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:092][613]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:101][614]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:109][615]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:118][616]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:126][617]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:135][618]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:143][619]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:151][620]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:160][621]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:169][622]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:177][623]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:187][624]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:197][625]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:206][626]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:215][627]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:258][628]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:268][629]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:277][630]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:286][631]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:295][632]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:304][633]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:314][634]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:323][635]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:332][636]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:341][637]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:350][638]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:359][639]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:367][640]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:375][641]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:384][642]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:393][643]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:401][644]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:408][645]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:417][646]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:426][647]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:435][648]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:445][649]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:454][650]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:462][651]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:471][652]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:480][653]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:488][654]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:496][655]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:504][656]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:513][657]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:521][658]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:530][659]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:538][660]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:546][661]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:555][662]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:563][663]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:572][664]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:581][665]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:589][666]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:597][667]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:606][668]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:615][669]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:623][670]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:630][671]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:640][672]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:648][673]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:657][674]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:666][675]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:674][676]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:683][677]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:692][678]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:700][679]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:708][680]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:717][681]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:726][682]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:734][683]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:741][684]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:750][685]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:759][686]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:767][687]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:776][688]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:784][689]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:794][690]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:802][691]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:811][692]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:819][693]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:827][694]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:835][695]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:845][696]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:853][697]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:861][698]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:870][699]LogBlueprintUserMessages: [BP_AssaultCon_C_0] Hello
+[2018.11.30-05.00.11:871][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.11:871][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-05.00.11:902][699]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-05.00.11:937][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-05.00.11:937][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.11:994][700]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.30-05.00.16:405][205]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-05.00.19:395][536]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-05.00.22:965][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-05.00.23:005][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.23:005][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-05.00.23:005][932]PIE: New page: PIE session: TestMap (Nov 30, 2018, 11:00:23 PM)
+[2018.11.30-05.00.23:005][932]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-05.00.23:019][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014129s)
+[2018.11.30-05.00.23:020][932]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-05.00.23:020][932]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.11.30-05.00.23:020][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015168s)
+[2018.11.30-05.00.23:066][932]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-05.00.23:217][932]LogInit: FAudioDevice initialized.
+[2018.11.30-05.00.23:228][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-05.00.23:268][932]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-05.00.23:285][932]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-14.00.23
+[2018.11.30-05.00.23:286][932]LogWorld: Bringing up level for play took: 0.016742
+[2018.11.30-05.00.23:312][932]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.245
+[2018.11.30-05.00.23:312][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.24:250][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-05.00.30:847][566]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'LastSensedStimuli' of length 1 in '/Script/AIModule.ActorPerceptionBlueprintInfo'!
+[2018.11.30-05.00.34:047][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.34:047][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-05.00.34:077][929]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-05.00.34:114][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-05.00.34:115][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.34:192][930]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.30-05.00.41:914][839]BlueprintLog: New page: Compile BP_ShooterAiConBase
+[2018.11.30-05.00.42:543][878]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_ShooterAiConBaseD19BA2054C3EA55F4B2F6AA70BF4544D.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Controller/BP_ShooterAiConBase.uasset'
+[2018.11.30-05.00.43:041][937]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-05.00.43:081][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.43:082][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-05.00.43:082][937]PIE: New page: PIE session: TestMap (Nov 30, 2018, 11:00:43 PM)
+[2018.11.30-05.00.43:082][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-05.00.43:097][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014928s)
+[2018.11.30-05.00.43:098][937]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-05.00.43:098][937]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2018.11.30-05.00.43:098][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.015971s)
+[2018.11.30-05.00.43:146][937]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-05.00.43:175][937]LogInit: FAudioDevice initialized.
+[2018.11.30-05.00.43:184][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-05.00.43:226][937]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-05.00.43:241][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-14.00.43
+[2018.11.30-05.00.43:242][937]LogWorld: Bringing up level for play took: 0.015314
+[2018.11.30-05.00.43:268][937]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap -0.289
+[2018.11.30-05.00.43:268][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.43:673][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-05.00.55:304][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.55:305][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-05.00.55:336][ 33]LogSlate: Window 'SinglePlayerFPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.30-05.00.55:375][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.30-05.00.55:376][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.00.55:451][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.30-05.05.30:671][720]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/TestMap_Auto1175E4C73484D3CAF93D395A440EBDA2D.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/Autosaves/Game/Levels/TestMap_Auto1.umap'
+[2018.11.30-05.05.30:681][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap' took 0.508
+[2018.11.30-05.05.30:681][720]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.508
+[2018.11.30-05.05.30:778][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/ShooterAI/Character/BP_Assault] ([1] browsable assets)...
+[2018.11.30-05.05.30:837][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/ShooterAI/Character/BP_Assault.BP_Assault]
+[2018.11.30-05.05.30:837][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/ShooterAI/Character/BP_Assault]
+[2018.11.30-05.05.30:905][720]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_Assault_Auto16A97347540497F6207465CB73E2DAC7A.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/Autosaves/Game/BP/ShooterAI/Character/BP_Assault_Auto1.uasset'
+[2018.11.30-05.05.30:929][720]LogFileHelpers: Auto-saving content packages took 0.248
+[2018.11.30-05.11.17:767][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.30-05.11.17:782][951]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.11.30-05.11.19:861][164]LogSavePackage: Moving '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Saved/BP_ShooterAiConBase11FBB8C6431AF152CD909EA392133E51.tmp' to '../../../../../../Users/kai/Documents/Unreal Projects/SinglePlayerFPS/Content/BP/ShooterAI/Controller/BP_ShooterAiConBase.uasset'
+[2018.11.30-05.11.21:441][345]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.30-05.11.21:483][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.11.21:483][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.30-05.11.21:484][345]PIE: New page: PIE session: TestMap (Nov 30, 2018, 11:11:21 PM)
+[2018.11.30-05.11.21:484][345]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap
+[2018.11.30-05.11.21:500][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016212s)
+[2018.11.30-05.11.21:501][345]LogAIModule: Creating AISystem for world TestMap
+[2018.11.30-05.11.21:501][345]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2018.11.30-05.11.21:501][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap.TestMap to /Game/Levels/UEDPIE_0_TestMap.TestMap (0.017309s)
+[2018.11.30-05.11.21:553][345]LogInit: XAudio2 using 'ヘッドセット イヤフォン (3- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-05.11.21:583][345]LogInit: FAudioDevice initialized.
+[2018.11.30-05.11.21:594][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-05.11.21:642][345]LogLoad: Game class is 'BP_TestGM_C'
+[2018.11.30-05.11.21:658][345]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.11.30-14.11.21
+[2018.11.30-05.11.21:659][345]LogWorld: Bringing up level for play took: 0.016188
+[2018.11.30-05.11.21:686][345]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap 0.13
+[2018.11.30-05.11.21:687][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Levels/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Levels/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.11.30-05.11.30:894][879]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.320 s
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: 
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\InputCore\Private\InputCoreTypes.cpp] [Line: 717]
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_64'
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: Stack: 
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa3e4d71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa3e210c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa3e22b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa5add97d8 UE4Editor-InputCore.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa5addd6a5 UE4Editor-InputCore.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa3db599a9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa5a40cfd6 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa5a400270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa5a40f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa5a3fc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa7b9f6d41 USER32.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa7b9f6713 USER32.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa5a410646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ff60eb354e5 UE4Editor.exe!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ff60eb45b3c UE4Editor.exe!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ff60eb45bba UE4Editor.exe!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ff60eb53dac UE4Editor.exe!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ff60eb55aaa UE4Editor.exe!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa7b933034 KERNEL32.DLL!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: [Callstack] 0x00007ffa7c1e1471 ntdll.dll!UnknownFunction []
+[2018.11.30-05.11.30:894][879]LogOutputDevice: Error: 
+[2018.11.30-05.11.30:909][879]LogStats:                SubmitErrorReport -  0.012 s
